@@ -1,4 +1,4 @@
-## Hi, welcome to my profile! My name is Pedro Henrique
+## Hi, welcome to my profile! My name is Pedro Henrique.
 I’m deeply passionate about technology, which I see as a true virtue. With an eagerness to keep learning, I’ve found in programming the perfect way to channel and expand this passion.
 
 <div style="display: inline_block" align="center">
