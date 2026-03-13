@@ -3,11 +3,11 @@ I’m deeply passionate about technology, which I see as a true virtue. With an 
 
 <div style="display: inline_block" align="center">
 <br>
-<!--
+
   <img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api?username=phss-henrique&show_icons=true&theme=dracula" />
   
   <img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=phss-henrique&layout=compact&show_icons=true&theme=dracula" />
-  -->
+  
 </div>
 <br>
 
