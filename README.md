@@ -7,7 +7,7 @@ I’m deeply passionate about technology, which I see as a true virtue. With an 
 ### 💻 What I do
 - **Backend Development:** Architecting robust APIs and microservices utilizing **Java, Spring Boot, and Go** for high performance and concurrency.
 - **Frontend Development:** Crafting modern, responsive user interfaces with **React (Vite) and Angular**.
-- **AI Integration:** Exploring machine learning solutions and image analysis (like DINOv2) in projects such as **Kindraw** and **GSize** to automate and optimize real-world processes.
+- **AI Integration:** Exploring machine learning solutions and image analysis (like DINOv2) in projects such as **Kindraw** to automate and optimize real-world processes.
 - **Purpose-Driven Tech:** Developing accessible applications, such as **LibrasLearn**, a gamified platform for learning Brazilian Sign Language.
 
 ### 🚀 Tech Stack
