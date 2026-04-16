@@ -1,8 +1,12 @@
 name: Metrics
+
 on:
-  schedule: [{cron: "0 0 * * *"}] # Roda toda meia-noite
+  schedule:
+    - cron: "0 0 * * *" # Roda toda meia-noite
   workflow_dispatch: # Permite rodar manualmente
-push: {branches: ["master", "main"]}
+  push:
+    branches: ["master", "main"] # Atualiza sempre que você der push no perfil
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -23,6 +27,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes # Analisa commits e não só o tamanho dos arquivos
           
-          # Estética (Dracula Theme)
+          # Estética
           config_order: base.header, isocalendar, languages, base.activity
           palette: github
