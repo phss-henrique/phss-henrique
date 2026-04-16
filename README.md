@@ -25,5 +25,12 @@ I’m deeply passionate about technology, which I see as a true virtue. With an 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phss-henrique&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phss-henrique&theme=dracula&hide_border=true&color=BD93F9" width="100%" alt="Activity Graph" />
+</div>
+
 ### 🎸 Beyond the screen
 When I'm not optimizing queries or tweaking magnetic switches on my keyboard, you can probably find me at the gym analyzing the torque of a lift, figuring out minor 7th chords on the guitar, surviving a *Resident Evil* run or facing a *Dark Souls* boss.
+
+
