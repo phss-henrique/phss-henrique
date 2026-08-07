@@ -14,7 +14,7 @@ I’m deeply passionate about technology, which I see as a true virtue. With an 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,go,python,react,angular,maven,postgres,azure,next&theme=dark&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,spring,go,next,azure,postgres,python,react,angular,maven,&theme=dark&perline=10" alt="Tech Stack" />
   </a>
 </div>
 <br>
