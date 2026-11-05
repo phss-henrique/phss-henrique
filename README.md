@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi,+welcome+to+my+profile!;I'm+Pedro+Henrique;Software+Engineer;Digital+Solutions+Apprentice" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi,+welcome+to+my+profile!;I'm+Pedro+Henrique;Software+Developer;CI%26T+Intern" alt="Typing SVG" />
 </h1>
 
 I’m deeply passionate about technology, which I see as a true virtue. With an eagerness to keep learning, I’ve found in programming the perfect way to channel and expand this passion. Currently, I work as a Software Developer Intern, focused on building efficient, scalable, and impactful applications from the ground up.
